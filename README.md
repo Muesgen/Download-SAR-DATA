@@ -15,8 +15,11 @@ A shiny application for the application and the subsequent preprocessing is plan
 Requirements:
 ----
 Python3
+
 Wget
+
 R > 3.5
+
 Account at ASF https://asf.alaska.edu/
 
 Python3:
