@@ -1,0 +1,16 @@
+[api_search]
+output=csv
+platform = Sentinel-1A
+processingLevel = GRD_HD
+beamMode = IW
+intersectsWith = POLYGON((103.399298559781 -1.36234843866135,103.399298559781 -2.26666373978637,104.298040760155 -2.26666373978637,104.298040760155 -1.36234843866135,103.399298559781 -1.36234843866135))
+start=2021-03-01T00:00:00UTC
+end=2021-05-01T00:00:00UTC
+ 
+[download]
+download_site = both
+nproc = 6
+ 
+[asf_download]
+http-user = muesgen
+http-password = Sanchez93
