@@ -12,4 +12,4 @@ Afterwards, all ordered images are unpacked and stored in a directory with the n
 
 A shiny application for the application and the subsequent preprocessing is planned, which makes it possible for inexperienced users to download and preprocess Senitnel data automatically with a click.
 
-Translated with www.DeepL.com/Translator (free version)
+
