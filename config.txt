@@ -13,4 +13,4 @@ nproc = 6
  
 [asf_download]
 http-user = muesgen
-http-password = Sanchez93
+http-password = ******
